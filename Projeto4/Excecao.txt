@@ -1,0 +1,5 @@
+05/05/2023 23:30:28 - Falha ao enviar email.
+   em System.Net.Mail.SmtpClient.Send(MailMessage message)
+   em Projeto4.FaleConosco.Enviar_Click(Object sender, EventArgs e) na C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\FaleConosco.aspx.cs:linha 57
+System
+------------------------------------------------
